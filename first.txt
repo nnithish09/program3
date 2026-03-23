@@ -52,6 +52,8 @@ View Logs
 git log
 Reset (Undo changes)
 git reset --hard
+
+
 ✅ Experiment 2: Branching, Merge, Fork, Pull Request
 Aim
 
@@ -116,6 +118,8 @@ Pull Request
 Go to GitHub
 Click Compare & Pull Request
 Submit PR
+
+
 ✅ Experiment 3: GitHub + Jenkins CI/CD Integration
 Aim
 
@@ -161,6 +165,8 @@ javac First.java
 java First
 Build Project
 Click Build Now
+
+
 ✅ Experiment 4: Maven Project in CI/CD
 Aim
 
